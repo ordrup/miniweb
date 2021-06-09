@@ -1,0 +1,33 @@
+body { font-size: 16px; margin: 25px auto;  }
+
+  button {
+  color:white;
+  display: block;
+  margin: 0 auto;
+  padding: 10px 35px;
+  width: 250px;
+  font: 300 150% langdon;
+  background: white;
+  border: 3px solid black;
+  right: 50%;
+  cursor: pointer;
+  color: black;
+} 
+
+button:hover {
+  background: #f7f7f7;
+  border: 1px solid #8b8b8b;
+}
+
+button:active {
+  background: #2e2e2e;
+  border: 1px solid black;
+  color: white;
+  }
+
+  img {
+  	width: 450px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
